@@ -1,0 +1,10 @@
+c:\users\mary_lapko\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\mary_lapko\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\mary_lapko\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\obj\Debug\Simple Calc.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\obj\Debug\Simple Calc.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Mary_Lapko\Downloads\ATM-master-calc\ATM-master\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

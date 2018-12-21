@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\bin\Debug\ReverseAword.exe.config
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\bin\Debug\ReverseAword.exe
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\bin\Debug\ReverseAword.pdb
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\obj\Debug\ReverseAword.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\obj\Debug\ReverseAword.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\obj\Debug\ReverseAword.exe
+C:\Users\Mary_Lapko\source\repos\ReverseAword\ReverseAword\obj\Debug\ReverseAword.pdb
